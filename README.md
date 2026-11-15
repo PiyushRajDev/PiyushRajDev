@@ -63,7 +63,7 @@ A multilingual voice communication platform where participants speak in their ow
 ### 02. SkillLighthouse
 
 <a href="https://github.com/PiyushRajDev/slh_demo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushRajDev&repo=slh_demo&bg_color=0f172a&title_color=22c55e&text_color=cbd5e1&icon_color=22c55e&border_color=14532d" alt="SkillLighthouse" width="100%" />
+  <img src="./assets/card-slh.svg" alt="SkillLighthouse: verified skills, not resumes" width="100%" />
 </a>
 
 Helps students demonstrate verified skills beyond traditional resumes. It brings coding activity, interview preparation and skill assessments into one place.
@@ -76,7 +76,7 @@ Helps students demonstrate verified skills beyond traditional resumes. It brings
 ### 03. OASIX
 
 <a href="https://github.com/PiyushRajDev/Oasix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushRajDev&repo=Oasix&bg_color=0f172a&title_color=22c55e&text_color=cbd5e1&icon_color=22c55e&border_color=14532d" alt="OASIX" width="100%" />
+  <img src="./assets/card-oasix.svg" alt="OASIX: ride the trend before it peaks" width="100%" />
 </a>
 
 A marketing intelligence product that helps brands understand content distribution, discover trends, analyze sentiment and find opportunities across social platforms.
@@ -118,13 +118,8 @@ A marketing intelligence product that helps brands understand content distributi
 
 <div align="center">
 
-<!-- Made by the 3d-contrib.yml workflow: animated 3D contribution bars, radar chart and language donut -->
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushRajDev&bg_color=0f172a&color=22c55e&line=22c55e&point=ffffff&area=true&area_color=166534&hide_border=true&height=280" width="100%" alt="contribution activity graph" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PiyushRajDev&show_icons=true&bg_color=0f172a&title_color=22c55e&text_color=cbd5e1&icon_color=22c55e&border_color=14532d&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushRajDev&layout=donut&bg_color=0f172a&title_color=22c55e&text_color=cbd5e1&border_color=14532d" alt="top languages" />
+<!-- Made by the 3d-contrib.yml workflow: 3D contribution bars, radar chart, language donut, stars and forks -->
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
 
 </div>
 
@@ -144,6 +139,6 @@ I'm interested in connecting with engineers, founders and teams building in back
 
 *"Understand the system. Build the thing. Measure what matters."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:166534,100:0f172a&height=100&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
 
 </div>
