@@ -4,23 +4,15 @@
   <img alt="Piyush Raj. Backend, Platform, Real-Time Systems." src="./assets/hero-light.svg" width="100%">
 </picture>
 
-## About
+I build real-time backend systems. Right now that means **Vāk**, a live voice room where everyone speaks their own language and hears everyone else in theirs. I care about where latency comes from, how services behave under load, and what breaks first.
 
-I'm a Computer Science student who likes building and operating software systems. I enjoy working across the stack, but my current focus is **backend engineering, real-time systems, infrastructure and voice AI**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/wave-divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/wave-divider-light.svg">
+  <img alt="" src="./assets/wave-divider-light.svg" width="100%">
+</picture>
 
-I like understanding what happens beneath the abstractions: how services communicate, how systems handle concurrency, where latency comes from, and how software behaves under failure. I learn by building, debugging, experimenting and contributing to real projects.
-
-## Currently
-
-| | |
-|---|---|
-| **Building** | **Vāk**, multilingual real-time voice communication |
-| **Building** | **SkillLighthouse**, verified student talent beyond resumes |
-| **Exploring** | Low-latency audio pipelines, WebSockets, WebRTC and voice AI |
-| **Engineering** | Backend architecture, distributed systems and infrastructure |
-| **Looking for** | Backend, Platform, Real-Time and Software Engineering opportunities |
-
-## Projects
+## Vāk
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/vak-pipeline-dark.svg">
@@ -28,7 +20,23 @@ I like understanding what happens beneath the abstractions: how services communi
   <img alt="Vāk pipeline: speaker, speech to text, translate, text to speech, listener" src="./assets/vak-pipeline-light.svg" width="100%">
 </picture>
 
-**[Vāk](https://github.com/PiyushRajDev/vak): real-time multilingual voice.** Participants speak in their own languages while listeners hear translated speech in their preferred language, preserving the speaker's voice. Focus: real-time audio, speech-to-text, translation, text-to-speech and low-latency communication.
+Real-time multilingual voice rooms. Each participant speaks in their own language; Vāk transcribes, translates and speaks it back to every listener in theirs. Built on Gnani's Prisma (speech-to-text) and Timbre (text-to-speech) APIs, with a Vite frontend and a Node.js backend.
+
+**[Live demo](https://vak-amber.vercel.app)** · **[Source](https://github.com/PiyushRajDev/vak)**
+
+What I measured while building it:
+
+- WebSocket TTS returned first audio in about **387 ms**.
+- STT round trips on Prisma (pa-IN) took roughly **103–184 ms** server-side.
+- Concurrent **REST** TTS requests hit a rate limit (429) at one active request, while **WebSocket** TTS ran two streams in parallel without it. So the room's audio path runs over WebSockets.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/wave-divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/wave-divider-light.svg">
+  <img alt="" src="./assets/wave-divider-light.svg" width="100%">
+</picture>
+
+## Also built
 
 <table>
 <tr>
@@ -42,7 +50,7 @@ I like understanding what happens beneath the abstractions: how services communi
 </picture>
 </a>
 
-Helps students demonstrate verified skills beyond traditional resumes by bringing coding activity, interview preparation and skill assessments into one place.
+**SkillLighthouse.** A developer evaluation platform that brings coding activity, interview preparation and skill assessments into one place, so skills are verified instead of just claimed on a resume.
 
 </td>
 <td width="50%" valign="top">
@@ -55,41 +63,28 @@ Helps students demonstrate verified skills beyond traditional resumes by bringin
 </picture>
 </a>
 
-Helps brands understand content distribution, discover trends, analyze sentiment and find opportunities across social platforms. [oasix.in](https://oasix.in)
+**Oasix.** An autonomous marketing operator that finds Instagram Reels trend opportunities for a brand's market and acts on them. Starting with fashion brands in India. [oasix.in](https://oasix.in)
 
 </td>
 </tr>
 </table>
 
-## Engineering interests
-
-| Area | Focus |
-|---|---|
-| **Backend** | API design, databases, caching, queues and service architecture |
-| **Real-time** | WebSockets, WebRTC, audio streaming and event-driven communication |
-| **Infrastructure** | Linux, Docker, Kubernetes, CI/CD, observability and cloud deployment |
-| **Distributed systems** | Concurrency, fault tolerance, reliability and system performance |
-| **AI systems** | Voice pipelines, inference latency, evaluation and production AI infrastructure |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/wave-divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/wave-divider-light.svg">
+  <img alt="" src="./assets/wave-divider-light.svg" width="100%">
+</picture>
 
 ## Stack
 
 | | |
 |---|---|
-| **Languages** | C++, Python, TypeScript, JavaScript, Go |
-| **Backend and frameworks** | Node.js, Express, FastAPI, React, Next.js |
-| **Data and infrastructure** | PostgreSQL, Redis, MongoDB, Docker, Kubernetes, AWS |
-| **Tools** | Git, GitHub, Jenkins, Linux, VS Code |
-
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
-  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-green.svg" width="100%">
-</picture>
+| **Languages** | TypeScript, JavaScript, Python |
+| **Backend** | Node.js, Express, FastAPI, PostgreSQL, Prisma, MongoDB |
+| **Frontend** | React, Next.js, Vite |
+| **Infra and tooling** | Docker, GitHub Actions, Jenkins, Turborepo, Linux, Git |
+| **Real-time** | WebSockets, streaming audio pipelines |
 
 ## Contact
 
-[piyush.99045@gmail.com](mailto:piyush.99045@gmail.com) · [Portfolio](https://portfolio-raj-piyush.vercel.app/) · [GitHub](https://github.com/PiyushRajDev)
-
-> Understand the system. Build the thing. Measure what matters.
+[piyush.99045@gmail.com](mailto:piyush.99045@gmail.com) · [Portfolio](https://portfolio-raj-piyush.vercel.app/) · [Oasix](https://oasix.in) · [GitHub](https://github.com/PiyushRajDev)
