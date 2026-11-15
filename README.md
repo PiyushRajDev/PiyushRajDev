@@ -1,99 +1,151 @@
+<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=190&section=header&text=Piyush%20Raj&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-stack%20%26%20backend%20engineer%20%E2%80%A2%20AI%20voice%20%26%20real-time%20systems&descAlignY=62&descSize=17" width="100%" alt="Piyush Raj" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:166534&height=180&section=header&text=Piyush%20Raj&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Platform%20%7C%20Real-Time%20Systems&descAlignY=60&descSize=16" width="100%" />
 
-<a href="https://github.com/PiyushRajDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=%24+whoami+%E2%86%92+Piyush+Raj%2C+final-year+CSE+student;%24+building+%E2%86%92+SkillLighthouse%3A+verified+talent%2C+not+resumes;%24+stack+%E2%86%92+React+%7C+Django+%7C+Node+%7C+Redis+%7C+BullMQ;%24+exploring+%E2%86%92+low-latency+audio+%26+real-time+systems;%24+status+%E2%86%92+open+to+SWE+internships" alt="typing intro" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Piyush+Raj%2C+CSE+student;%24+building+%E2%86%92+SkillLighthouse%3A+verified+talent%2C+not+resumes;%24+shipping+%E2%86%92+backend%2C+real-time+%26+AI+systems;%24+exploring+%E2%86%92+low-latency+audio+%26+voice+AI+infra;%24+status+%E2%86%92+open+to+backend%2C+platform+%26+SWE+roles" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=PiyushRajDev&label=Profile%20views&color=1f6feb&style=flat-square" alt="views" />
-<img src="https://img.shields.io/badge/B.Tech%20CSE-Chandigarh%20University%20'27-0d1117?style=flat-square&labelColor=1f6feb&color=0d1117" alt="education" />
-<img src="https://img.shields.io/badge/Open%20to-SWE%20internships-2ea44f?style=flat-square" alt="open to internships" />
+<a href="https://github.com/PiyushRajDev">
+  <img src="https://komarev.com/ghpvc/?username=PiyushRajDev&style=flat-square&color=166534&label=PROFILE+VIEWS" />
+</a>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20Chandigarh%20University-166534?style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20to-Backend%20%7C%20Platform%20%7C%20SWE-2563eb?style=flat-square" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=2" width="100%" alt="" />
+---
+
+## `~/about`
+
+I'm a Computer Science student interested in building and operating software systems.
+
+I enjoy working across the stack, but my current focus is **backend engineering, real-time systems, infrastructure, and voice AI**.
+
+I like understanding what happens beneath the abstractions: how services communicate, how systems handle concurrency, where latency comes from, and how software behaves under failure.
+
+Currently learning by building, debugging, experimenting, and contributing to real projects.
+
+---
 
 ## `~/now`
 
-| | |
+| Area | Current focus |
 |---|---|
-| 🔨 **Building** | [SkillLighthouse](https://github.com/PiyushRajDev/slh), a live dashboard of verified student talent that replaces resumes |
-| 🎙️ **Exploring** | Real-time audio and AI voice: latency, streaming, and the infra that keeps it reliable |
-| 🧠 **Background** | Competitive programming (C++ / DSA) that grew into full-stack and backend engineering |
-| 🎯 **Looking for** | Software engineering internships, ideally on backend or real-time products |
-| 📫 **Reach me** | piyush.99045@gmail.com |
+| Building | **SkillLighthouse** — verified student talent beyond resumes |
+| Building | **Vāk** — multilingual real-time voice communication |
+| Exploring | Low-latency audio pipelines, WebSockets, WebRTC and Voice AI |
+| Engineering | Backend architecture, distributed systems and infrastructure |
+| Looking for | Backend, Platform, Real-Time and Software Engineering opportunities |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=2" width="100%" alt="" />
+---
 
 ## `~/projects`
 
-<div align="center">
-<a href="https://github.com/PiyushRajDev/slh">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushRajDev&repo=slh&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=1f6feb" alt="SkillLighthouse" />
-</a>
-</div>
+### 01. Vāk — Real-Time Multilingual Voice
 
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **SkillLighthouse (SLH)** | Replaces resumes with a live dashboard of verified student talent, giving recruiters data-driven proof and students a way to stand out in placements. | TypeScript, React | [Code](https://github.com/PiyushRajDev/slh) · [Demo repo](https://github.com/PiyushRajDev/slh_demo) |
-| **Trendy (StyleSense)** | [one-line description: what it does, for whom] | [stack] | [Code](https://github.com/PiyushRajDev/REPO_NAME) |
-| **Metaspace** | [one-line description: what it does, for whom] | [stack] | [Code](https://github.com/PiyushRajDev/REPO_NAME) |
+A multilingual voice communication platform where participants speak in their own languages while listeners hear translated speech in their preferred language, preserving the speaker's voice.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=2" width="100%" alt="" />
+**Focus:** Real-time audio, speech-to-text, translation, text-to-speech and low-latency communication.
+
+[Repository](https://github.com/PiyushRajDev/vak)
+
+### 02. SkillLighthouse — Verified Student Talent
+
+A platform designed to help students demonstrate verified skills beyond traditional resumes. It brings coding activity, interview preparation and skill assessments into one place.
+
+**Focus:** Full-stack development, PostgreSQL, Redis, background jobs and AI-powered interviews.
+
+[Repository](https://github.com/PiyushRajDev/slh_demo)
+
+### 03. OASIX — Marketing Intelligence
+
+A marketing intelligence product focused on helping brands understand content distribution, discover trends, analyze sentiment and find opportunities across social platforms.
+
+**Focus:** SaaS development, AI-powered workflows and marketing intelligence.
+
+[Repository](https://github.com/PiyushRajDev/Oasix) · [Website](https://oasix.in)
+
+---
+
+## `~/engineering`
+
+Things I'm particularly interested in:
+
+- **Backend engineering:** API design, databases, caching, queues and service architecture.
+- **Real-time systems:** WebSockets, WebRTC, audio streaming and event-driven communication.
+- **Infrastructure:** Linux, Docker, Kubernetes, CI/CD, observability and cloud deployment.
+- **Distributed systems:** Concurrency, fault tolerance, reliability and system performance.
+- **AI systems:** Voice pipelines, inference latency, evaluation and production AI infrastructure.
+
+---
 
 ## `~/stack`
 
-<div align="center">
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,py,ts,js,go,java&theme=dark" alt="languages" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,mongodb,redis,elasticsearch&theme=dark" alt="frameworks and data" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,vscode&theme=dark" alt="tools" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,go" />
+</p>
 
-</div>
+**Backend & Frameworks**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=2" width="100%" alt="" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,nextjs" />
+</p>
 
-<!--
-## `~/competitive-programming`
-Uncomment this block and swap in your handles. Delete it if you'd rather not show ratings.
+**Databases & Infrastructure**
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_HANDLE?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_HANDLE&theme=dark" alt="Codeforces" />
-</div>
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,kubernetes,aws" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,linux,vscode" />
+</p>
+
+---
 
 ## `~/activity`
 
 <div align="center">
 
-<!-- Generated by the 3d-contrib.yml workflow. Shows contributions as 3D bars plus a radar chart and language donut. -->
-<picture>
-  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushRajDev&theme=github-compact&hide_border=true&area=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushRajDev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&height=300" alt="activity graph" width="100%" />
+<br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PiyushRajDev&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushRajDev&layout=donut&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PiyushRajDev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushRajDev&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=2" width="100%" alt="" />
+---
+
+## `~/connect`
+
+I'm interested in connecting with engineers, founders and teams building in backend infrastructure, developer tools, real-time communication and AI.
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=1f6feb" alt="dev quote" />
+<a href="mailto:piyush.99045@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-166534?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://portfolio-raj-piyush.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/PiyushRajDev">
+  <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
-<a href="mailto:piyush.99045@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" alt="Portfolio" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=70&section=footer" width="100%" alt="" />
+*"Understand the system. Build the thing. Measure what matters."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:166534,100:0f172a&height=100&section=footer" width="100%" />
