@@ -44,4 +44,4 @@ Marketing intelligence ([oasix.in](https://oasix.in)). Helps brands understand c
 
 ## Contact
 
-[piyush.99045@gmail.com](mailto:piyush.99045@gmail.com) · [Portfolio](https://portfolio-raj-piyush.vercel.app/)
+[piyush.705039@gmail.com](mailto:piyush.705039@gmail.com) · [Portfolio](https://piyushrajdev.github.io)
