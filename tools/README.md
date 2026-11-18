@@ -31,7 +31,7 @@ Open `http://localhost:8000/tools/preview.html`. The preview page has play/pause
 | 4–6s | Three-hit combo and damage feedback |
 | 6–7s | Boss counterattack |
 | 7–9s | Charge-up |
-| 19–23s | hotfix finisher |
+| 9–11s | Hotfix finisher |
 | 11–12s | Split, K.O. and debris |
 | 12–14s | Victory state |
 | 14–15s | Reset and loop |
