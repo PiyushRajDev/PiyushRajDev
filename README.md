@@ -1,4 +1,8 @@
-<img src="./assets/hero.svg" width="100%" alt="Backend and real-time systems engineer. B.Tech CSE 2027, Chandigarh University. I build backend services and real-time voice systems. Open to backend, platform and software engineering roles.">
+<p align="center">
+  <img src="./assets/bug-vs-dev.svg" width="100%" alt="Piyush Raj versus a bug in a pixel-art battle. Open to backend, platform and software engineering roles.">
+</p>
+
+Backend and real-time systems engineer. B.Tech CSE 2027, Chandigarh University. I build backend services and real-time voice systems.
 
 ## Now
 
