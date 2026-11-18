@@ -100,7 +100,7 @@
   <g transform="translate(820 240)" fill="none" stroke="#bd4438" stroke-width="4" stroke-linecap="round">
     <path d="M0 -48V-22M34 -34L17 -17M48 0H22M34 34L17 17M0 48V22M-34 34L-17 17M-48 0H-22M-34 -34L-17 -17">
       <animateTransform attributeName="transform" type="rotate" values="0;0;90;180" keyTimes="0;.56;.62;1" dur="28s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0;1;0" keyTimes="0;.56;.6;.72;1" dur="28s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.56;.6;.72;1" dur="28s" repeatCount="indefinite"/>
     </path>
   </g>
 
@@ -116,7 +116,7 @@
   <!-- Developer: enters, dashes, jumps, teleports and finishes -->
   <g id="developer" transform="translate(570 350)">
     <animateTransform attributeName="transform" type="translate" values="570 350;570 350;660 332;790 350;790 280;930 350;820 350;820 260;820 350;570 350;570 350" keyTimes="0;.08;.15;.24;.30;.38;.48;.57;.68;.84;1" dur="28s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0;1;1;1;1;1;1;1;1;0" keyTimes="0;.055;.07;.84;.86;.98;.99;1" dur="28s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;1;1;0;0" keyTimes="0;.055;.07;.84;.86;.98;.99;1" dur="28s" repeatCount="indefinite"/>
     <g>
       <!-- scarf / motion tail -->
       <path d="M-9 -95Q-48 -112 -65 -91L-37 -78L-60 -64L-8 -75Z" fill="#bd4438">
@@ -154,7 +154,7 @@
   <!-- Bug antagonist -->
   <g id="bug" transform="translate(1000 350)">
     <animateTransform attributeName="transform" type="translate" values="1000 350;1000 350;945 350;835 350;835 325;730 350;745 350;745 372;745 386;1000 350;1000 350" keyTimes="0;.08;.15;.24;.30;.38;.48;.57;.68;.84;1" dur="28s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0;1;1;1;1;1;1;1;1;0" keyTimes="0;.09;.1;.84;.86;.98;.99;1" dur="28s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;1;1;0;0" keyTimes="0;.09;.1;.84;.86;.98;.99;1" dur="28s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="rotate" additive="sum" values="0;0;0;8;-10;0;0;22;78;0" keyTimes="0;.2;.22;.24;.27;.4;.54;.62;.72;1" dur="28s" repeatCount="indefinite"/>
     <!-- antennae -->
     <path d="M-15 -111Q-38 -146 -53 -132M16 -111Q39 -148 54 -131" stroke="#f1ede4" stroke-width="4" fill="none" stroke-linecap="round"/>
