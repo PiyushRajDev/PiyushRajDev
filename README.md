@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/bug-vs-dev.svg" width="100%" alt="A 15-second looping arcade fight: Piyush, a katana-wielding developer, battles BUG_4041, lands a three-hit combo and finishes with a hotfix. Backend, real-time and systems engineering.">
+  <img src="./assets/bug-vs-dev.svg" width="100%" alt="Animated duel: Piyush dashes into a fight with BUG_4041, clashes blades, teleports, lands a finishing move and rebuilds the scene. Backend, real-time and systems engineering.">
 </p>
 
 Backend and real-time systems engineer. B.Tech CSE 2027, Chandigarh University. I build backend services and real-time voice systems.
