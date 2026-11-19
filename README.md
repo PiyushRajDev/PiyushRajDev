@@ -1,51 +1,57 @@
 <p align="center">
-  <img src="./assets/bug-vs-dev.svg" width="100%" alt="Animated duel: Piyush dashes into a fight with BUG_4041, clashes blades, teleports, lands a finishing move and rebuilds the scene. Backend, real-time and systems engineering.">
+  <img src="./assets/bug-vs-dev.svg" width="100%" alt="A looping ink-and-moonlight fighting-game duel: Piyush takes on BUG_4041, debugs a race condition, lands a three-hit combo, ships a hotfix and gets EXIT 0." />
 </p>
 
-Backend and real-time systems engineer. B.Tech CSE 2027, Chandigarh University. I build backend services and real-time voice systems.
+<p align="center">
+  <strong>BACKEND SYSTEMS · REAL-TIME INFRASTRUCTURE · VOICE AI</strong><br />
+  Building systems where latency, state, concurrency and failure are part of the design.
+</p>
 
-## Now
+I'm a Computer Science student at Chandigarh University (2027), building backend systems and real-time products. I care about what happens beneath the interface: transport, state transitions, latency budgets, failure modes and the engineering decisions that make systems reliable.
 
-- Building [Vāk](https://github.com/PiyushRajDev/vak), real-time multilingual voice communication
-- Building [SkillLighthouse](https://github.com/PiyushRajDev/slh_demo), verified student talent beyond resumes
-- Exploring low-latency audio pipelines, WebSockets, WebRTC and voice AI
+The animation above is a 15-second SVG/CSS loop generated with Python. One timeline drives character poses, movement, camera shake, health bars, impact effects and incident captions. The fight plays out like a production incident: **RACE CONDITION → NULL DEREF → CACHE HIT → BATCH WRITE → RETRY x3 → HOTFIX → EXIT 0**. No JavaScript is needed to run the animation, and reduced-motion preferences are respected.
 
-## Projects
+## Selected work
 
-### [Vāk](https://github.com/PiyushRajDev/vak)
+### [Vāk](https://github.com/PiyushRajDev/vak) · [Live demo](https://vak-amber.vercel.app/)
 
-Real-time multilingual voice. Participants speak in their own languages, and listeners hear translated speech in their preferred language, with the speaker's voice preserved.
+Real-time multilingual voice rooms. Everyone speaks their own language and hears other participants re-spoken in the language they chose, while original and translated captions keep the conversation visible.
 
-<img src="./assets/vak-trace.svg" width="100%" alt="Vāk trace: mic capture, speech to text, translate, text to speech and audio playback overlapping as a streaming pipeline. Illustrative.">
+- Streaming pipeline: microphone → Gnani Prisma speech recognition → translation → Gnani Timbre speech synthesis → listener playback.
+- Node.js + WebSockets backend with a Vite/React frontend.
+- Supports 10 Indian languages plus English.
 
-`real-time audio` `speech-to-text` `translation` `text-to-speech` `low latency`
+<p align="center">
+  <img src="./assets/vak-trace.svg" width="100%" alt="Vāk streaming voice pipeline: microphone capture, speech recognition, translation, speech synthesis and listener playback." />
+</p>
 
-<!-- TODO: one concrete engineering detail (latency target and what you measured, how you handle late or dropped audio, why you chose the transport) -->
+### [OASIX](https://github.com/PiyushRajDev/Oasix) · [oasix.in](https://oasix.in)
 
-### [SkillLighthouse](https://github.com/PiyushRajDev/slh_demo)
+An autonomous AI marketing operator that spots Instagram Reels trend opportunities for a brand's market and acts on them, starting with fashion brands in India.
 
-Verified student talent beyond resumes. Brings coding activity, interview preparation and skill assessments into one place.
+### [SkillLighthouse](https://github.com/PiyushRajDev/slh_demo) · [Demo](https://slh-demo.vercel.app)
 
-`TypeScript` `PostgreSQL` `Redis` `background jobs` `AI interviews`
+A proof-of-work platform for student developers. It brings projects, coding challenges, peer feedback and skill evidence together so hiring can look beyond resumes.
 
-<!-- TODO: one concrete detail (how verification works, queue design, scale you tested at) -->
+## Engineering interests
 
-### [OASIX](https://github.com/PiyushRajDev/Oasix)
-
-Marketing intelligence ([oasix.in](https://oasix.in)). Helps brands understand content distribution, discover trends, analyze sentiment and find opportunities across social platforms.
-
-`SaaS` `AI-powered workflows`
+- Real-time audio and voice systems: streaming STT/TTS, WebSockets, WebRTC and low-latency pipelines
+- Backend and distributed systems: concurrency, state management, queues, caching and failure handling
+- Systems observability: tracing, latency analysis, debugging and performance measurement
+- Building and shipping products end to end
 
 ## Stack
 
-| | |
+| Area | Tools |
 |---|---|
-| **Languages** | C++, Python, TypeScript, JavaScript, Go |
+| **Languages** | TypeScript, JavaScript, Go, Python, C++ |
 | **Backend** | Node.js, Express, FastAPI |
 | **Frontend** | React, Next.js |
-| **Data** | PostgreSQL, Redis, MongoDB |
-| **Infrastructure** | Docker, Kubernetes, AWS, Jenkins, Linux, Git |
+| **Data** | PostgreSQL, Redis, MongoDB, Prisma |
+| **Infrastructure** | Linux, Docker, Kubernetes, AWS, GitHub Actions, Jenkins |
 
 ## Contact
 
-[piyush.705039@gmail.com](mailto:piyush.705039@gmail.com) · [Portfolio](https://piyushrajdev.github.io)
+[Portfolio](https://piyushrajdev.github.io) · [Email](mailto:piyush.705039@gmail.com)
+
+Open to backend, platform and software engineering roles.
