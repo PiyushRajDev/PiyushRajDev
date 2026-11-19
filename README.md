@@ -6,9 +6,7 @@
   <strong>BACKEND SYSTEMS · REAL-TIME INFRASTRUCTURE · VOICE AI</strong>
 </p>
 
-I'm a Computer Science student at Chandigarh University (2027), building backend systems and real-time products. I care about what happens beneath the interface: transport, state transitions, latency budgets, failure modes and the engineering decisions that make systems reliable.
-
-Source: [`tools/duel.py`](./tools/duel.py)
+I'm a Backend Developer, building backend systems and real-time products. I care about what happens beneath the interface: transport, state transitions, latency budgets, failure modes and the engineering decisions that make systems reliable.
 
 ## Selected work
 
