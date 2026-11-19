@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="./assets/bug-vs-dev.svg" width="100%" alt="A looping ink-and-moonlight fighting-game duel: Piyush takes on BUG_4041, debugs a race condition, lands a three-hit combo, ships a hotfix and gets EXIT 0." />
+  <img src="./assets/bug-vs-dev.svg" width="100%" alt="A looping ink-and-moonlight duel beside Piyush Raj's profile card: a suited swordsman wearing Piyush's face fights BUG_4041 in the rain, lands a three-hit combo, ends it with kill -9 and gets EXIT 0." />
 </p>
 
 <p align="center">
-  <strong>BACKEND SYSTEMS · REAL-TIME INFRASTRUCTURE · VOICE AI</strong><br />
-  Building systems where latency, state, concurrency and failure are part of the design.
+  <strong>BACKEND SYSTEMS · REAL-TIME INFRASTRUCTURE · VOICE AI</strong>
 </p>
 
 I'm a Computer Science student at Chandigarh University (2027), building backend systems and real-time products. I care about what happens beneath the interface: transport, state transitions, latency budgets, failure modes and the engineering decisions that make systems reliable.
 
-The animation above is a 15-second SVG/CSS loop generated with Python. One timeline drives character poses, movement, camera shake, health bars, impact effects and incident captions. The fight plays out like a production incident: **RACE CONDITION → NULL DEREF → CACHE HIT → BATCH WRITE → RETRY x3 → HOTFIX → EXIT 0**. No JavaScript is needed to run the animation, and reduced-motion preferences are respected.
+Source: [`tools/duel.py`](./tools/duel.py)
 
 ## Selected work
 
